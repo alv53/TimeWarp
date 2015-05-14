@@ -1,11 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UpdatePitch.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UpdateColor.cs">
     <Files>
       <File FileName="Assets\UpdatePitch.cs" Line="39" Column="25" />
       <File FileName="Assets\TimeScale.cs" Line="1" Column="1" />
-      <File FileName="Assets\UpdateColor.cs" Line="1" Column="1" />
-      <File FileName="Assets\UpdateUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\UpdateColor.cs" Line="14" Column="30" />
+      <File FileName="Assets\UpdateUI.cs" Line="16" Column="85" />
+      <File FileName="Assets\Update_Fade.cs" Line="22" Column="58" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,45 +1,5 @@
 Base path: C:/Program Files (x86)/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-1-5872
+Pipe name: \\.\pipe\UnityShaderCompiler-1-4700
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=5351 outsize=2168 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=3359 outsize=2087 kw=WATER_REFRACTIVE ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=3359 outsize=2875 kw=WATER_REFRACTIVE ok=1
-Cmd: preprocess
-  insize=13357 outsize=2694 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=10220 outsize=5369 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=10220 outsize=5897 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=10224 outsize=4979 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=10224 outsize=4483 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=9966 outsize=1875 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=9966 outsize=3070 kw= ok=1
-Cmd: preprocess
   insize=2514 outsize=1827 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=952 outsize=1274 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=952 outsize=811 kw= ok=1
-Cmd: preprocess
-  insize=12509 outsize=2575 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=9506 outsize=5020 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=9506 outsize=5003 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=9510 outsize=4727 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=9510 outsize=4215 kw=WATER_REFLECTIVE WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=9252 outsize=1835 kw= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=9252 outsize=3070 kw= ok=1
-Cmd: preprocess
-  insize=1489 outsize=1486 ok=1

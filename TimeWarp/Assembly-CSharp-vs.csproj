@@ -69,6 +69,7 @@
      <Compile Include="Assets\UpdatePitch.cs" />
      <Compile Include="Assets\UpdateSpeed.cs" />
      <Compile Include="Assets\UpdateUI.cs" />
+     <Compile Include="Assets\Update_Fade.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\Plugins\x86_64\donotdelete.txt" />
      <None Include="Assets\OVR\Shaders\TextShader3D.shader" />
