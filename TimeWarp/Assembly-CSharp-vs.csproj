@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Clock\Scripts\Clock.cs" />
+     <Compile Include="Assets\FallingCapsule.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRCameraRig.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRCommon.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRDisplay.cs" />
@@ -66,6 +67,7 @@
      <Compile Include="Assets\TimeScale.cs" />
      <Compile Include="Assets\UpdateColor.cs" />
      <Compile Include="Assets\UpdatePitch.cs" />
+     <Compile Include="Assets\UpdateSpeed.cs" />
      <Compile Include="Assets\UpdateUI.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\Plugins\x86_64\donotdelete.txt" />

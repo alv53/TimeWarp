@@ -590,10 +590,10 @@ public class OVRMainMenu : MonoBehaviour
 	
 	void UpdateRecenterPose()
 	{
-		if(Input.GetKeyDown(KeyCode.R))
-		{
-			OVRManager.display.RecenterPose();
-		}
+		//if(Input.GetKeyDown(KeyCode.R))
+		//{
+		//	OVRManager.display.RecenterPose();
+		//}
 	}
 	
 	/// <summary>
