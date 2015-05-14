@@ -31,5 +31,15 @@ public class UpdatePitch : MonoBehaviour {
 			audio.pitch = 1 / Mathf.Abs (audio.pitch);
 		if(timeScale != 1)
 			applyDoppler (timeScale);
+		if(Input.GetKeyDown("F"))
+		{
+			if(audio.volume > 0.0f)
+				audio.volume -= 0.05f;
+		}
+		if(Input.GetKeyDown("R"))
+		{
+			if(audio.volume <= 0.65f)
+				audio.volume += 0.05f;
+		}
 	}
 }
