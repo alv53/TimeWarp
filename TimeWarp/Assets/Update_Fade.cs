@@ -22,7 +22,7 @@ public class Update_Fade : MonoBehaviour {
 		L = thePlayer.GetComponent<TimeScale>().getTimeScale();
 		if (L < 1.0f) 
 		{
-			c.a = 0.1f *(-Mathf.Log (L));
+			c.a = 0.03f *(-Mathf.Log (L));
 			the_image.color = c;
 		}
 		else 
