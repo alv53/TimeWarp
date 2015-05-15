@@ -44,13 +44,13 @@ public class TimeScale : MonoBehaviour {
 	}
 
 	private void updateTimeScale(){
-		if (Input.GetKey (KeyCode.PageUp) && timeIncrement == 9)
+		if (Input.GetKey (KeyCode.PageUp || KeyCode.UpArrow) && timeIncrement == 9)
 			increaseTime ();
-		else if (Input.GetKey (KeyCode.PageUp))
+		else if (Input.GetKey (KeyCode.PageUp || KeyCode.UpArrow))
 			increaseIncrement ();
-		if (Input.GetKey (KeyCode.PageDown) && timeIncrement == 1)
+		if (Input.GetKey (KeyCode.PageDown || KeyCode.DownArrow) && timeIncrement == 1)
 			decreaseTime ();
-		else if (Input.GetKey (KeyCode.PageDown))
+		else if (Input.GetKey (KeyCode.PageDown || KeyCode.DownArrow))
 			decreaseIncrement ();
 	}
 

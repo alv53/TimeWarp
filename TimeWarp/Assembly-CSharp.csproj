@@ -50,7 +50,7 @@
      <Compile Include="Assets\Elementals\Scripts\OrbitCamera.cs" />
      <Compile Include="Assets\Elementals\Scripts\TestParticles.cs" />
      <Compile Include="Assets\FallingCapsule.cs" />
-     <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\NewBehaviourScript1.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRCameraRig.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRCommon.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRDisplay.cs" />
@@ -69,6 +69,7 @@
      <Compile Include="Assets\OVR\Scripts\Util\OVRVisionGuide.cs" />
      <Compile Include="Assets\TimeModify.cs" />
      <Compile Include="Assets\TimeScale.cs" />
+     <Compile Include="Assets\Timer.cs" />
      <Compile Include="Assets\UpdateColor.cs" />
      <Compile Include="Assets\UpdatePitch.cs" />
      <Compile Include="Assets\UpdateSpeed.cs" />
